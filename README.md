@@ -19,6 +19,9 @@ bonus tiles that are used.
 The game also includes a dictionary of book-related words and phrases, so players can
 easily find inspiration for their next move.
 
+<img src="https://user-images.githubusercontent.com/118439273/229484247-4854a0a0-7e4f-4f2d-9e87-60fadd52d077.png" width="520" height="520" />
+
+
 ## Features
 
 * Create an account and log in to the game.
